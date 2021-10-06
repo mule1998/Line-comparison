@@ -29,7 +29,20 @@ namespace Linecomparison
             Console.WriteLine(length1);
             Console.WriteLine(length2);
             Console.WriteLine(length1.ToString().Equals(length2.ToString()));
+            //return true if lines are equal ohterwise return false.
             //lenght.ToString() is a object to string method and .Equals is used for checking their equality
+            if (length1 > length2)
+            {
+                Console.WriteLine("Line 1 is Greater!");
+            }
+            else if (length1 == length2)
+            {
+                Console.WriteLine("Both Lines are Equals!");
+            }
+            else
+            {
+                Console.WriteLine("Line 2 is Greater!");
+            }
         }
         
     }
