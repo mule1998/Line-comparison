@@ -1,0 +1,14 @@
+C:\Users\Shubham\source\repos\Linecomparison\Linecomparison\obj\Debug\netcoreapp3.1\Linecomparison.csproj.AssemblyReference.cache
+C:\Users\Shubham\source\repos\Linecomparison\Linecomparison\obj\Debug\netcoreapp3.1\Linecomparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubham\source\repos\Linecomparison\Linecomparison\obj\Debug\netcoreapp3.1\Linecomparison.AssemblyInfoInputs.cache
+C:\Users\Shubham\source\repos\Linecomparison\Linecomparison\obj\Debug\netcoreapp3.1\Linecomparison.AssemblyInfo.cs
+C:\Users\Shubham\source\repos\Linecomparison\Linecomparison\obj\Debug\netcoreapp3.1\Linecomparison.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\source\repos\Linecomparison\Linecomparison\bin\Debug\netcoreapp3.1\Linecomparison.exe
+C:\Users\Shubham\source\repos\Linecomparison\Linecomparison\bin\Debug\netcoreapp3.1\Linecomparison.deps.json
+C:\Users\Shubham\source\repos\Linecomparison\Linecomparison\bin\Debug\netcoreapp3.1\Linecomparison.runtimeconfig.json
+C:\Users\Shubham\source\repos\Linecomparison\Linecomparison\bin\Debug\netcoreapp3.1\Linecomparison.runtimeconfig.dev.json
+C:\Users\Shubham\source\repos\Linecomparison\Linecomparison\bin\Debug\netcoreapp3.1\Linecomparison.dll
+C:\Users\Shubham\source\repos\Linecomparison\Linecomparison\bin\Debug\netcoreapp3.1\Linecomparison.pdb
+C:\Users\Shubham\source\repos\Linecomparison\Linecomparison\obj\Debug\netcoreapp3.1\Linecomparison.dll
+C:\Users\Shubham\source\repos\Linecomparison\Linecomparison\obj\Debug\netcoreapp3.1\Linecomparison.pdb
+C:\Users\Shubham\source\repos\Linecomparison\Linecomparison\obj\Debug\netcoreapp3.1\Linecomparison.genruntimeconfig.cache
